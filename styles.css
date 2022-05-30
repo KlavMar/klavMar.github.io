@@ -1,0 +1,31 @@
+h1, h2{
+    text-align: center;
+    color: #de7471
+    }
+h1{
+    font-size: 3em;
+}
+ h2{
+     font-size:2em
+ }   
+    p{
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    }
+    
+    body {
+    background-color: #EBEBEB;
+    }
+
+.link{
+    color:#de7471;
+    padding:2em;
+    margin:1em auto;
+}
+
+.container-flex{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
